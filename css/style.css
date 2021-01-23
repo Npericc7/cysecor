@@ -1,0 +1,241 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  background-color: #f9f9f9;
+}
+
+.pre-header {
+  background-color: #111618;
+  height: 60px;
+  color: #fff;
+  padding-top: 15px;
+  
+  
+}
+
+
+ .pre-header .sacyndar-manu {
+   
+   list-style: none;
+   
+ }
+ 
+ 
+ 
+ .pre-header  .sacyndar-manu li {
+   display: inline-block;
+   margin-left: 15px;
+ }
+ 
+ .pre-header .sacyndar-manu li a {
+  color: #787374;
+  text-transform: uppercase;
+ }
+ 
+ 
+.main-nav .main-manu {
+  list-style: none;
+  margin-top: 20px;
+}
+
+.main-nav .main-manu li {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.main-nav .main-manu li a {
+  color: #767676;
+  text-transform: uppercase;
+}
+
+.main-cta-btn a {
+  background-color: #4f33f1;
+  border: 1px solid #4f33f1;
+  padding: 10px;
+  color: #fff;
+}
+
+.main-cta-btn  a:hover {
+  color: #4f33f1;  
+  background-color: transparent;
+  text-decoration: none;
+  transition: 0,1s;
+}
+
+.main-nav img {
+  
+  margin-top: 10px;
+ 
+}
+
+.hero-section {
+  background-image: url(../images/hero.jpg);
+  padding-top: 115px;
+  padding-bottom: 115px;
+  background-size: cover;
+}
+
+.hero-section h1{
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 65px;
+  margin-bottom: 20px;
+}
+
+
+.hero-section p {
+  color: #fff;
+  font-size: 10px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+
+
+.hero-section a {
+   background-color: #4f33f1;
+   border: 1px solid #4f33f1;
+   padding: 10px;
+   color: #fff;
+   display: inline-block;
+}
+
+.service-section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.service-section h3 {
+  text-align: center;
+  
+}
+
+.service-section h2 {
+  text-align: center;
+  
+}
+
+.service-section p {
+  text-align: center;
+}
+
+.service-section .service-item {
+  background-color: #1b1f20;
+}
+
+
+.service-section .service-item {
+  background-color: #4c007b;
+}
+
+
+.how-it-work-section {
+  text-align: center;
+  background-image: url(../images/howtoworks.jpg);
+  background-size: cover;
+  color; #fff; 
+  
+}
+
+.about-section {
+  background-image: url("../images/pozadina.jpg");
+  background-size: cover;
+  color: #fff;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+.about-section h3 {
+  font-size: 18px;
+  text-transform: uppercase;
+  border-bottom: 1px dotted #7c7586;
+  padding-bottom: 15px;
+}
+
+
+
+.about-section h3:before {
+  content: "*";
+  display: inline-block;
+}
+  
+
+  
+
+.about-section ul {
+  margin-left: 20px;
+}
+
+.school-section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+
+.shcool-section .school-inner {
+  background-image: url("../images/school.jpg");
+}
+  
+.content-section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url("../images/pozadina.jpg");
+  background-size: cover;
+  color: #fff;
+}
+
+.content-section h2 , .content-section p {
+  text-align: center;
+}
+
+
+
+.content-section .contact-data h3 {
+  text-align: left;
+}
+
+.content-section .contact-data p {
+  text-align: left;
+}
+
+
+.content-section .contact-data p a {
+  color: #fff;
+}
+
+
+
+
+.content-section form {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 50px;
+}
+
+.content-section form textarea, .content-section form imput, .content-section button {
+  width: 550px;
+  border: 0;
+  outline: none;
+  margin-bottom: 15px;
+  height: 40px;
+}
+
+.content-section form textarea {
+  height: 70px;
+}
+
+.content-section form button {
+  background-color: #1a7dfa;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  position: absolute;
+  
+}
+
